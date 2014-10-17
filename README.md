@@ -1,5 +1,7 @@
 # Capistrano::DeployBlock
 
+[![Gem Version](https://badge.fury.io/rb/capistrano-deploy-block.svg)](http://badge.fury.io/rb/capistrano-deploy-block)
+
 Provides simple commands for blocking Capistrano deploys.
 
 ## Motivation
