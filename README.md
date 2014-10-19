@@ -2,6 +2,7 @@
 
 [![Gem Version](https://badge.fury.io/rb/capistrano-deploy-block.svg)](http://badge.fury.io/rb/capistrano-deploy-block)
 [![Code Climate](https://codeclimate.com/github/brigade/capistrano-deploy-block.png)](https://codeclimate.com/github/brigade/capistrano-deploy-block)
+[![Dependency Status](https://gemnasium.com/brigade/capistrano-deploy-block.svg)](https://gemnasium.com/brigade/capistrano-deploy-block)
 
 Provides simple commands for blocking Capistrano deploys.
 
